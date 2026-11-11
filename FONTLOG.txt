@@ -1,0 +1,7 @@
+FONTLOG for Unhinged Hand
+
+Version 1.012
+
+- Initial Release
+
+Copyright (c) 2026, Dieter "squink" Stassen.
