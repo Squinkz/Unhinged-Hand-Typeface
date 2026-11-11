@@ -5,6 +5,7 @@ Unhinged Hand is a handwritten typeface by Dieter "squink" Stassen. It pairs ful
 [Download Unhinged Hand Regular (TTF)](./Unhinged_Hand-Regular.ttf?raw=true)
 
 ![Type Specimen](./specimen.png)
+![Type Sample](./sample.png)
 
 ## Installation
 
