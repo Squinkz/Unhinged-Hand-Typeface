@@ -1,6 +1,6 @@
 # Unhinged Hand
 
-Unhinged Hand is a handwritten typeface by Dieter "squink" Stassen. It pairs full-height capitals with small caps lowercase letters and comes in one style, Regular.
+Unhinged Hand is a handwritten typeface loosely based on my own handwriting.
 
 [Download Unhinged Hand Regular (TTF)](./Unhinged_Hand-Regular.ttf?raw=true)
 
